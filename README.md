@@ -6,7 +6,7 @@
 <h1 align="left">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="180" align="right"  />
 
-### :man_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Finland
 
@@ -15,7 +15,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - ⚡ In my free time I read tech articles.
 
 <details>
-  <summary><h3>🔥 &nbsp; My Stats:</h3></summary>
+  <summary><h3>🔥 &nbsp; My Stats</h3></summary>
   <p>
     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wesenbergg&theme=dark&background=000000)](https://git.io/streak-stats)
   
@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <details>
   <summary>
-    <h3>🛠 &nbsp; Languages and Tools:</h3>
+    <h3>🛠 &nbsp; Languages and Tools</h3>
   </summary>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
