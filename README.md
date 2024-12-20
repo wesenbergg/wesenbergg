@@ -15,7 +15,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - ⚡ In my free time I read tech articles.
 
 <details>
-  <summary><h3>🔥 &nbsp; My Stats</h3></summary>
+  <summary>🔥 &nbsp; My Stats</summary>
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wesenbergg&theme=dark&background=000000)](https://git.io/streak-stats)
   
@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <details>
   <summary>
-    <h3>🛠 &nbsp; Languages and Tools</h3>
+    🛠 &nbsp; Languages and Tools
   </summary>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
