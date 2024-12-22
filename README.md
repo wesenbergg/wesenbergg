@@ -8,11 +8,11 @@
 
 ### :man_technologist: &nbsp; About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Finland
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Finland
 
-- 🔭 I’m working as a Software Engineer.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I read tech articles.
+- ⚽️ Enjoying to collaborate on difficult challenges. 
+- 🔭 Passionate to discover and learn new tech.
+- 📚 In my free time I listen audio books.
 
 <details>
   <summary>🔥 &nbsp; My Stats</summary>
