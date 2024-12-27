@@ -1,15 +1,17 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=wesenbergg&style=flat-square&color=blue" height="24" alt="">
+  <img src="https://komarev.com/ghpvc/?username=wesenbergg&style=flat-square&color=blue" height="24" alt="Github profile views">
   <a href="https://www.linkedin.com/in/boriss-jerjomkin-521626174"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn Badge"></a>
 </p>
 
-<h1 align="left">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="left">Greetings, traveller! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="180" align="right"  />
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Finland
+> A user interface is like a joke. If you have to explain it it’s not that good.
 
-- ⚽️ Enjoying to collaborate on difficult challenges. 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a friendly Software Developer from Finland.
+
 - 🔭 Passionate to discover and learn new tech.
+- 🎯 Interested in mastering AWS and UX.
 - 📚 In my free time I listen audio books.
 
 <details>
