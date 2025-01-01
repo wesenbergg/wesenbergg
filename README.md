@@ -1,10 +1,14 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=wesenbergg&style=flat-square&color=blue" height="24" alt="Github profile views">
   <a href="https://www.linkedin.com/in/boriss-jerjomkin-521626174"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn Badge"></a>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhdnY0bHJqOGF2aWFrOG01dXRlODJ3azJpM2kycnFsMnFsaXBhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WotkGXJKKeosD7IO9K/giphy.gif" width="150" align="right" />
 </p>
+<br />
+<br />
 
-<h1 align="left">Greetings, traveller!</h1>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFobHBsOXl0NGw2bHQwbHljMnhwcWVlYW9ldHRiY2YxaTQ0dmhsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ognU2KHajwGwV9gJes/giphy.gif" width="300" align="right"  />
+# Greetings, traveller!
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG4xdGJ2dDQ5MmRvd3Y2b3pzNDhnMWVxZHhtcnJodDF1bDM4bGs3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" width="250" align="right"  />
 
 > A user interface is like a joke. If you have to explain it it’s not that good.
 
