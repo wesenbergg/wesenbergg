@@ -1,17 +1,15 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=wesenbergg&style=flat-square&color=blue" height="24" alt="Github profile views">
   <a href="https://www.linkedin.com/in/boriss-jerjomkin-521626174"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn Badge"></a>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhdnY0bHJqOGF2aWFrOG01dXRlODJ3azJpM2kycnFsMnFsaXBhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WotkGXJKKeosD7IO9K/giphy.gif" width="150" align="right" />
 </p>
-<br />
-<br />
+
 <br />
 <br />
 
 # Greetings, traveller!
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG4xdGJ2dDQ5MmRvd3Y2b3pzNDhnMWVxZHhtcnJodDF1bDM4bGs3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" width="250" align="right"  />
-
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhdnY0bHJqOGF2aWFrOG01dXRlODJ3azJpM2kycnFsMnFsaXBhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WotkGXJKKeosD7IO9K/giphy.gif" width="250" align="right" />
+  
 > A user interface is like a joke. If you have to explain it it’s not that good.
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a friendly Software Developer from Finland.
