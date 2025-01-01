@@ -3,8 +3,8 @@
   <a href="https://www.linkedin.com/in/boriss-jerjomkin-521626174"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn Badge"></a>
 </p>
 
-<h1 align="left">Greetings, traveller! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="180" align="right"  />
+<h1 align="left">Greetings, traveller!</h1>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFobHBsOXl0NGw2bHQwbHljMnhwcWVlYW9ldHRiY2YxaTQ0dmhsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ognU2KHajwGwV9gJes/giphy.gif" width="300" align="right"  />
 
 > A user interface is like a joke. If you have to explain it it’s not that good.
 
