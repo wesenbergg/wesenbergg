@@ -8,7 +8,7 @@
 
 # Greetings, traveller!
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhdnY0bHJqOGF2aWFrOG01dXRlODJ3azJpM2kycnFsMnFsaXBhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WotkGXJKKeosD7IO9K/giphy.gif" width="300" align="right" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhdnY0bHJqOGF2aWFrOG01dXRlODJ3azJpM2kycnFsMnFsaXBhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WotkGXJKKeosD7IO9K/giphy.gif" width="288" align="right" />
   
 > A user interface is like a joke. If you have to explain it, then it’s not that good.
 
@@ -48,5 +48,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  </p>
+</details>
+
+<details>
+  <summary>
+    ✨ Highlights
+  </summary>
+  <p>
+    TBD
   </p>
 </details>
