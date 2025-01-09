@@ -5,8 +5,6 @@
 <br />
 <br />
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wesenbergg&theme=nightowl&hide_border=true&border_radius=8&card_width=600&background=67%2C3E0C11%2C001E58" alt="GitHub Streak" /></a>
-
 # Greetings, traveller!
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhdnY0bHJqOGF2aWFrOG01dXRlODJ3azJpM2kycnFsMnFsaXBhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WotkGXJKKeosD7IO9K/giphy.gif" width="288" align="right" />
