@@ -1,10 +1,11 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=wesenbergg&style=flat-square&color=blue" height="24" alt="Github profile views">
-  <a href="https://www.linkedin.com/in/boriss-jerjomkin-521626174"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn Badge"></a>
 </p>
 
 <br />
 <br />
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wesenbergg&theme=nightowl&hide_border=true&border_radius=8&card_width=600&background=67%2C3E0C11%2C001E58" alt="GitHub Streak" /></a>
 
 # Greetings, traveller!
 
@@ -21,8 +22,8 @@
 <details>
   <summary>🔥 &nbsp; My Stats</summary>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wesenbergg&theme=dark&background=000000)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://streak-stats.demolab.com?user=wesenbergg&theme=nightowl&hide_border=true&border_radius=8&card_width=600&background=67%2C3E0C11%2C001E58)](https://git.io/streak-stats)
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesenbergg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
