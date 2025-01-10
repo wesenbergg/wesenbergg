@@ -1,4 +1,5 @@
 <p align="left">
+  <a href="https://www.linkedin.com/in/boriss-jerjomkin-521626174"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn Badge"></a>
   <img src="https://komarev.com/ghpvc/?username=wesenbergg&style=flat-square&color=blue" height="24" alt="Github profile views">
 </p>
 
