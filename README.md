@@ -12,7 +12,7 @@
   
 > A user interface is like a joke. If you have to explain it, then it’s not that good.
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a friendly Software Developer from Finland.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a friendly Software Developer from Finland. I made a new year resolution for 2025 to code every day on spare time.
 
 - 🔭 Passionate to discover and learn new tech.
 - 🎯 Interested in mastering AWS and UX.
