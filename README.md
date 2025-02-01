@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdvNTN3NXRoMmRtNHZ2aTVibzI4dGFidGMzNnZmcXJnemtxMDExayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" height="200" align="right">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhdnY0bHJqOGF2aWFrOG01dXRlODJ3azJpM2kycnFsMnFsaXBhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WotkGXJKKeosD7IO9K/giphy.gif" height="250" align="right" />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/boriss-jerjomkin-521626174"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn Badge"></a>
@@ -14,7 +14,7 @@
 
 > A user interface is like a joke. If you have to explain it, then it’s not that good.
   
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhdnY0bHJqOGF2aWFrOG01dXRlODJ3azJpM2kycnFsMnFsaXBhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WotkGXJKKeosD7IO9K/giphy.gif" width="288" align="right" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdvNTN3NXRoMmRtNHZ2aTVibzI4dGFidGMzNnZmcXJnemtxMDExayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" height="200" align="right">
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a friendly Software Developer from Finland. I made a new year resolution for 2025 to code every day on spare time.
 
