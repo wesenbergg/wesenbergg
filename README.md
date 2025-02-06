@@ -1,7 +1,7 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhdnY0bHJqOGF2aWFrOG01dXRlODJ3azJpM2kycnFsMnFsaXBhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WotkGXJKKeosD7IO9K/giphy.gif" height="250" align="right" />
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/boriss-jerjomkin-521626174"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/in/wesenbergg"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn Badge"></a>
   <img src="https://komarev.com/ghpvc/?username=wesenbergg&style=flat-square&color=blue" height="24" alt="Github profile views">
 </p>
 
