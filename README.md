@@ -10,6 +10,8 @@
 <br />
 <br />
 
+<a href="https://github.com/wesenbergg/wesenbergg/blob/main/README.md">🇺🇸 English</a>
+<a href="https://github.com/wesenbergg/wesenbergg/blob/main/README_FI.md">🇫🇮 Suomi</a>
 # Greetings, traveller!
 
 > A user interface is like a joke. If you have to explain it, then it’s not that good.
