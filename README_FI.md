@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhdnY0bHJqOGF2aWFrOG01dXRlODJ3azJpM2kycnFsMnFsaXBhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WotkGXJKKeosD7IO9K/giphy.gif" height="250" align="right" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhdnY0bHJqOGF2aWFrOG01dXRlODJ3azJpM2kycnFsMnFsaXBhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WotkGXJKKeosD7IO9K/giphy.gif" height="250" align="right" alt="Joulukuusi kuvituskuva" />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/wesenbergg"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn Badge"></a>
@@ -14,9 +14,9 @@
 <a href="https://github.com/wesenbergg/wesenbergg/blob/main/README_FI.md">🇫🇮 Suomi</a>
 # Tervetuloa!
   
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdvNTN3NXRoMmRtNHZ2aTVibzI4dGFidGMzNnZmcXJnemtxMDExayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" height="200" align="right">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdvNTN3NXRoMmRtNHZ2aTVibzI4dGFidGMzNnZmcXJnemtxMDExayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" height="200" align="right" alt="Kädet kirjoittaa näppäimistöllä">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Olen ystävällinen softakehittäjä Suomesta. Tein uudenvuodenlupauksen, että pusken koodia vuoden 2025 jokaisena päivänä.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Kissa kirjoittaa koneella"> Olen ystävällinen softakehittäjä Suomesta. Tein uudenvuodenlupauksen, että pusken koodia vuoden 2025 jokaisena päivänä.
 
 - 🔭 Hauskinta ohjelmoinnissa on oppia ja löytää uutta.
 - 🎯 Tähtään AWS ja UX-mestariksi.
