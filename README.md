@@ -18,11 +18,11 @@
   
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdvNTN3NXRoMmRtNHZ2aTVibzI4dGFidGMzNnZmcXJnemtxMDExayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" height="200" align="right" alt="Habbo hands typing keyboard" >
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="coding cat"> I am a friendly Software Developer from Finland. I made a new year resolution for 2025 to code every day.
+I am a friendly Software Developer from Finland. I made a new year resolution for 2025 to code every day. Here is three random facts about me.
 
-- 🔭 Passionate to discover and learn new tech.
-- 🎯 Interested in mastering AWS and UX.
-- 📚 In my free time I listen audio books.
+1. Passionate to discover and learn new tech.
+2. Interested in mastering AWS and UX.
+3. In my free time I listen audio books.
 
 <details>
   <summary>🔥 &nbsp; My Stats</summary>
