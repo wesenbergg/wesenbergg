@@ -16,7 +16,7 @@
   
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdvNTN3NXRoMmRtNHZ2aTVibzI4dGFidGMzNnZmcXJnemtxMDExayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" height="200" align="right" alt="Kädet kirjoittaa näppäimistöllä">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Kissa kirjoittaa koneella"> Olen ystävällinen softakehittäjä Suomesta. Tein uudenvuodenlupauksen, että pusken koodia vuoden 2025 jokaisena päivänä. Alla kolme hauskaa faktaa minusta.
+Olen ystävällinen softakehittäjä Suomesta. Tein uudenvuodenlupauksen, että pusken koodia vuoden 2025 jokaisena päivänä. Alla kolme hauskaa faktaa minusta.
 
 1. Hauskinta ohjelmoinnissa on oppia ja löytää uutta.
 2. Tähtään AWS ja UX-mestariksi.
