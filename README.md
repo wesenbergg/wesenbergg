@@ -14,7 +14,7 @@
 <a href="https://github.com/wesenbergg/wesenbergg/blob/main/README_FI.md">🇫🇮 Suomi</a>
 # Greetings, traveller!
 
-> A user interface is like a joke. If you have to explain it, then it’s not that good.
+> Simplicity is the soul of efficiency.
   
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdvNTN3NXRoMmRtNHZ2aTVibzI4dGFidGMzNnZmcXJnemtxMDExayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" height="200" align="right" alt="Habbo hands typing keyboard" >
 
