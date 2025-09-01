@@ -59,7 +59,7 @@ I am a friendly Software Developer from Finland. Here is three random facts abou
 
 <details>
   <summary>
-    ✨ Highlights
+    ✨ &nbsp; Highlights
   </summary>
   <p>
     TBD
