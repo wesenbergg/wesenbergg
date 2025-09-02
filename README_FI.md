@@ -57,7 +57,7 @@ Olen ystävällinen softakehittäjä Suomesta. Tein uudenvuodenlupauksen, että 
 
 <details>
   <summary>
-    ✨ Saavutukset
+    ✨ &nbsp; Saavutukset
   </summary>
   <p>
     TBD
